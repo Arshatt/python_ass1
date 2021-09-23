@@ -1,1 +1,2 @@
-# python_ass1
+# PythonUsingApi
+This is the usage of coingecko.com Api
