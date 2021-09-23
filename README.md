@@ -1,4 +1,4 @@
-# PythonUsingApi
+# Assignment 1 (coingecko API)
 This is the usage of coingecko.com Api
 
 # Installation
