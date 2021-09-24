@@ -14,6 +14,7 @@ python3 setup.py install
 from pycoingecko import CoinGeckoAPI
 cg = CoinGeckoAPI()
 
+
 # Examples
 You can find full information about this API in this site https://www.coingecko.com/api/docs/v3
 
