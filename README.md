@@ -8,13 +8,13 @@ pip install pycoingecko
 
 or
 ```
-git clone https://github.com/man-c/pycoingecko.git <br />
-cd pycoingecko <br />
+git clone https://github.com/man-c/pycoingecko.git 
+cd pycoingecko 
 python3 setup.py install
 ```
 # Usage
 ```
-from pycoingecko import CoinGeckoAPI <br />
+from pycoingecko import CoinGeckoAPI 
 cg = CoinGeckoAPI()
 ```
 
